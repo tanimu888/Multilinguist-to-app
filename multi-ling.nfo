@@ -1,0 +1,19 @@
+# Multilingual To-Do List
+
+A simple to-do list web application with multilingual support.
+
+## Features
+- Add, remove, and mark tasks as completed.
+- Switch between different languages (English, Spanish, French).
+
+## How to Run
+1. Clone this repository.
+2. Open `index.html` in your browser.
+
+## Languages Supported
+- English
+- Espa?ol
+- Fran?ais
+
+## How to Contribute
+Feel free to fork this repository and add more languages or features!
